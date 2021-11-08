@@ -31,8 +31,7 @@
     "streamr-client-protocol": "^9.0.0",
     "streamr-client-react": "^2.0.0",
     "styled-components": "^5.1.1",
-    "typescript": "^4.0.7",
-    "use-resize-observer": "^7.0.0"
+    "typescript": "^4.0.7"
   },
   "scripts": {
     "start": "BUILD_ENV=development npm run start-env",
@@ -97,7 +96,7 @@
     "eslint-config-airbnb-typescript": "9.0.0",
     "eslint-config-prettier": "6.11.0",
     "eslint-config-react-app": "5.2.1",
-    "eslint-import-resolver-typescript": "2.2.1",
+    "eslint-import-resolver-typescript": "2.5.0",
     "eslint-loader": "4.0.2",
     "eslint-plugin-flowtype": "5.2.0",
     "eslint-plugin-import": "2.22.0",
